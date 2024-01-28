@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PermissionsExample</string>
+    <string name="fab_gallery_content_description">Floating action button for open gallery</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Требуется разрешение</string>
+    <string name="permission_required_message">Этому приложению требуется разрешение на фото и мультимедиа на этом устройстве, чтобы эта функция работала должным образом.</string>
+    <string name="feature_is_unavailable">Функция недоступна, так как для этой функции тербуется разрешение, которое было отклонено. \nПожалуйста дайте разрешение на доступ к фото и медиафайлам (Хранилище) в настройках, чтобы продолжить.</string>
+    <string name="setting">Настройки</string>
+    <string name="cancel">Отмена</string>
+</resources>
